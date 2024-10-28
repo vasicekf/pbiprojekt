@@ -1,0 +1,419 @@
+"year","industry_branch","average_wage"
+2000,Administrativní a podpůrné činnosti,8989.1111
+2000,Činnosti v oblasti nemovitostí,10633.5556
+2000,Doprava a skladování,13278.5000
+2000,Informační a komunikační činnosti,21829.7500
+2000,"Kulturní, zábavní a rekreační činnosti",9644.4444
+2000,Ostatní činnosti,9387.5556
+2000,Peněžnictví a pojišťovnictví,25049.1250
+2000,"Profesní, vědecké a technické činnosti",13937.1111
+2000,Stavebnictví,12545.8750
+2000,Těžba a dobývání,14718.2222
+2000,"Ubytování, stravování a pohostinství",6592.0000
+2000,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,11012.3333
+2000,Veřejná správa a obrana; povinné sociální zabezpečení,15269.3750
+2000,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",14663.2000
+2000,Vzdělávání,10454.1111
+2000,Zásobování vodou; činnosti související s odpady a sanacemi,13038.8750
+2000,Zdravotní a sociální péče,11632.2500
+2000,"Zemědělství, lesnictví, rybářství",10309.6250
+2000,Zpracovatelský průmysl,11469.3333
+2001,Administrativní a podpůrné činnosti,10833.1250
+2001,Činnosti v oblasti nemovitostí,9525.4545
+2001,Doprava a skladování,14201.1250
+2001,Informační a komunikační činnosti,22366.7778
+2001,"Kulturní, zábavní a rekreační činnosti",8931.4545
+2001,Ostatní činnosti,10227.0000
+2001,Peněžnictví a pojišťovnictví,22826.0000
+2001,"Profesní, vědecké a technické činnosti",15088.2222
+2001,Stavebnictví,10801.5000
+2001,Těžba a dobývání,11838.0000
+2001,"Ubytování, stravování a pohostinství",7417.1111
+2001,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,10802.4000
+2001,Veřejná správa a obrana; povinné sociální zabezpečení,16650.6250
+2001,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",19756.7500
+2001,Vzdělávání,11523.2222
+2001,Zásobování vodou; činnosti související s odpady a sanacemi,12334.4444
+2001,Zdravotní a sociální péče,13079.7500
+2001,"Zemědělství, lesnictví, rybářství",10042.2222
+2001,Zpracovatelský průmysl,11179.3000
+2002,Administrativní a podpůrné činnosti,11582.3750
+2002,Činnosti v oblasti nemovitostí,13203.5556
+2002,Doprava a skladování,15294.5000
+2002,Informační a komunikační činnosti,21664.5000
+2002,"Kulturní, zábavní a rekreační činnosti",11211.1111
+2002,Ostatní činnosti,12591.6250
+2002,Peněžnictví a pojišťovnictví,27630.1111
+2002,"Profesní, vědecké a technické činnosti",16832.4444
+2002,Stavebnictví,14110.3750
+2002,Těžba a dobývání,16671.4444
+2002,"Ubytování, stravování a pohostinství",7451.7000
+2002,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,14431.0000
+2002,Veřejná správa a obrana; povinné sociální zabezpečení,16251.8889
+2002,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",17236.2000
+2002,Vzdělávání,11402.1000
+2002,Zásobování vodou; činnosti související s odpady a sanacemi,13268.4444
+2002,Zdravotní a sociální péče,13163.3333
+2002,"Zemědělství, lesnictví, rybářství",11618.2500
+2002,Zpracovatelský průmysl,14554.6250
+2003,Administrativní a podpůrné činnosti,11696.5000
+2003,Činnosti v oblasti nemovitostí,15618.0000
+2003,Doprava a skladování,16123.6250
+2003,Informační a komunikační činnosti,25900.4444
+2003,"Kulturní, zábavní a rekreační činnosti",13564.8750
+2003,Ostatní činnosti,12010.6667
+2003,Peněžnictví a pojišťovnictví,29052.5556
+2003,"Profesní, vědecké a technické činnosti",17876.8889
+2003,Stavebnictví,15094.8750
+2003,Těžba a dobývání,17499.2222
+2003,"Ubytování, stravování a pohostinství",9645.6250
+2003,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,13454.4444
+2003,Veřejná správa a obrana; povinné sociální zabezpečení,15781.0000
+2003,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",16714.4545
+2003,Vzdělávání,12765.2000
+2003,Zásobování vodou; činnosti související s odpady a sanacemi,13851.3333
+2003,Zdravotní a sociální péče,15967.1250
+2003,"Zemědělství, lesnictví, rybářství",9617.5000
+2003,Zpracovatelský průmysl,15310.5000
+2004,Administrativní a podpůrné činnosti,9095.3636
+2004,Činnosti v oblasti nemovitostí,16647.2500
+2004,Doprava a skladování,13832.7000
+2004,Informační a komunikační činnosti,24780.8000
+2004,"Kulturní, zábavní a rekreační činnosti",12833.7778
+2004,Ostatní činnosti,12575.0000
+2004,Peněžnictví a pojišťovnictví,31101.8889
+2004,"Profesní, vědecké a technické činnosti",18737.8889
+2004,Stavebnictví,14392.4444
+2004,Těžba a dobývání,18783.8889
+2004,"Ubytování, stravování a pohostinství",9997.8750
+2004,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,15997.3750
+2004,Veřejná správa a obrana; povinné sociální zabezpečení,18395.1111
+2004,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",21828.4444
+2004,Vzdělávání,17041.2500
+2004,Zásobování vodou; činnosti související s odpady a sanacemi,14717.1111
+2004,Zdravotní a sociální péče,16443.2500
+2004,"Zemědělství, lesnictví, rybářství",11607.1111
+2004,Zpracovatelský průmysl,16477.0000
+2005,Administrativní a podpůrné činnosti,12939.5000
+2005,Činnosti v oblasti nemovitostí,15222.3333
+2005,Doprava a skladování,18066.2500
+2005,Informační a komunikační činnosti,29377.8889
+2005,"Kulturní, zábavní a rekreační činnosti",12309.9000
+2005,Ostatní činnosti,14752.0000
+2005,Peněžnictví a pojišťovnictví,32902.5556
+2005,"Profesní, vědecké a technické činnosti",20220.8889
+2005,Stavebnictví,13402.6000
+2005,Těžba a dobývání,20143.8889
+2005,"Ubytování, stravování a pohostinství",10447.0000
+2005,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,16733.6250
+2005,Veřejná správa a obrana; povinné sociální zabezpečení,17686.6000
+2005,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",19245.1818
+2005,Vzdělávání,14399.2000
+2005,Zásobování vodou; činnosti související s odpady a sanacemi,15529.8889
+2005,Zdravotní a sociální péče,15254.5556
+2005,"Zemědělství, lesnictví, rybářství",12232.8889
+2005,Zpracovatelský průmysl,17253.3750
+2006,Administrativní a podpůrné činnosti,11171.4000
+2006,Činnosti v oblasti nemovitostí,16357.2222
+2006,Doprava a skladování,19125.2500
+2006,Informační a komunikační činnosti,31447.2222
+2006,"Kulturní, zábavní a rekreační činnosti",16152.3750
+2006,Ostatní činnosti,12583.6000
+2006,Peněžnictví a pojišťovnictví,39690.1250
+2006,"Profesní, vědecké a technické činnosti",23875.3750
+2006,Stavebnictví,17747.0000
+2006,Těžba a dobývání,24042.1250
+2006,"Ubytování, stravování a pohostinství",11390.0000
+2006,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,17864.8750
+2006,Veřejná správa a obrana; povinné sociální zabezpečení,20539.1111
+2006,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",28844.1250
+2006,Vzdělávání,17023.0000
+2006,Zásobování vodou; činnosti související s odpady a sanacemi,18490.1250
+2006,Zdravotní a sociální péče,14857.8000
+2006,"Zemědělství, lesnictví, rybářství",13010.5556
+2006,Zpracovatelský průmysl,13689.5455
+2007,Administrativní a podpůrné činnosti,13061.6667
+2007,Činnosti v oblasti nemovitostí,19851.2500
+2007,Doprava a skladování,20523.7500
+2007,Informační a komunikační činnosti,37677.0000
+2007,"Kulturní, zábavní a rekreační činnosti",12514.2727
+2007,Ostatní činnosti,16765.6250
+2007,Peněžnictví a pojišťovnictví,41548.6250
+2007,"Profesní, vědecké a technické činnosti",26101.7500
+2007,Stavebnictví,18924.6250
+2007,Těžba a dobývání,20572.0000
+2007,"Ubytování, stravování a pohostinství",12056.0000
+2007,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,19420.8750
+2007,Veřejná správa a obrana; povinné sociální zabezpečení,22088.6667
+2007,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",27476.1111
+2007,Vzdělávání,14832.4545
+2007,Zásobování vodou; činnosti související s odpady a sanacemi,15624.6000
+2007,Zdravotní a sociální péče,19609.6250
+2007,"Zemědělství, lesnictví, rybářství",15974.3750
+2007,Zpracovatelský průmysl,16037.8000
+2008,Administrativní a podpůrné činnosti,14989.1250
+2008,Činnosti v oblasti nemovitostí,16187.6000
+2008,Doprava a skladování,19755.4444
+2008,Informační a komunikační činnosti,33078.2000
+2008,"Kulturní, zábavní a rekreační činnosti",14480.6000
+2008,Ostatní činnosti,17240.8750
+2008,Peněžnictví a pojišťovnictví,39850.2222
+2008,"Profesní, vědecké a technické činnosti",29441.1250
+2008,Stavebnictví,18531.3333
+2008,Těžba a dobývání,26008.4444
+2008,"Ubytování, stravování a pohostinství",10861.4444
+2008,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,18692.3333
+2008,Veřejná správa a obrana; povinné sociální zabezpečení,25980.1250
+2008,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",31202.6667
+2008,Vzdělávání,21105.3750
+2008,Zásobování vodou; činnosti související s odpady a sanacemi,18871.0000
+2008,Zdravotní a sociální péče,18344.0000
+2008,"Zemědělství, lesnictví, rybářství",15593.4444
+2008,Zpracovatelský průmysl,21349.3750
+2009,Administrativní a podpůrné činnosti,12412.1000
+2009,Činnosti v oblasti nemovitostí,20312.6250
+2009,Doprava a skladování,20339.4444
+2009,Informační a komunikační činnosti,42660.1250
+2009,"Kulturní, zábavní a rekreační činnosti",18887.3750
+2009,Ostatní činnosti,17555.3750
+2009,Peněžnictví a pojišťovnictví,36338.8000
+2009,"Profesní, vědecké a technické činnosti",31037.6250
+2009,Stavebnictví,19510.4444
+2009,Těžba a dobývání,25035.7778
+2009,"Ubytování, stravování a pohostinství",12058.1250
+2009,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,20970.6250
+2009,Veřejná správa a obrana; povinné sociální zabezpečení,26794.8750
+2009,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",38828.2500
+2009,Vzdělávání,19931.0000
+2009,Zásobování vodou; činnosti související s odpady a sanacemi,17487.1000
+2009,Zdravotní a sociální péče,22322.7500
+2009,"Zemědělství, lesnictví, rybářství",17418.7500
+2009,Zpracovatelský průmysl,19603.0000
+2010,Administrativní a podpůrné činnosti,15582.3750
+2010,Činnosti v oblasti nemovitostí,20802.8750
+2010,Doprava a skladování,22901.3750
+2010,Informační a komunikační činnosti,38498.3333
+2010,"Kulturní, zábavní a rekreační činnosti",19222.5000
+2010,Ostatní činnosti,17576.8750
+2010,Peněžnictví a pojišťovnictví,36625.2000
+2010,"Profesní, vědecké a technické činnosti",27437.2222
+2010,Stavebnictví,17741.8000
+2010,Těžba a dobývání,26884.7778
+2010,"Ubytování, stravování a pohostinství",11501.3333
+2010,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,21623.1250
+2010,Veřejná správa a obrana; povinné sociální zabezpečení,23771.6667
+2010,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",39567.8750
+2010,Vzdělávání,21975.5000
+2010,Zásobování vodou; činnosti související s odpady a sanacemi,18266.3000
+2010,Zdravotní a sociální péče,18406.2000
+2010,"Zemědělství, lesnictví, rybářství",18233.8750
+2010,Zpracovatelský průmysl,18469.7000
+2011,Administrativní a podpůrné činnosti,14263.6667
+2011,Činnosti v oblasti nemovitostí,21710.2500
+2011,Doprava a skladování,20391.3333
+2011,Informační a komunikační činnosti,39833.0000
+2011,"Kulturní, zábavní a rekreační činnosti",17084.5556
+2011,Ostatní činnosti,18412.3750
+2011,Peněžnictví a pojišťovnictví,41893.0000
+2011,"Profesní, vědecké a technické činnosti",31423.7500
+2011,Stavebnictví,22635.8750
+2011,Těžba a dobývání,27995.8889
+2011,"Ubytování, stravování a pohostinství",12781.2500
+2011,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,19908.2222
+2011,Veřejná správa a obrana; povinné sociální zabezpečení,23239.7778
+2011,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",32024.5000
+2011,Vzdělávání,22636.8750
+2011,Zásobování vodou; činnosti související s odpady a sanacemi,20409.8889
+2011,Zdravotní a sociální péče,23927.2500
+2011,"Zemědělství, lesnictví, rybářství",16749.3333
+2011,Zpracovatelský průmysl,23638.5000
+2012,Administrativní a podpůrné činnosti,16487.7500
+2012,Činnosti v oblasti nemovitostí,21995.5000
+2012,Doprava a skladování,23145.7500
+2012,Informační a komunikační činnosti,41046.6667
+2012,"Kulturní, zábavní a rekreační činnosti",20179.3750
+2012,Ostatní činnosti,18609.3750
+2012,Peněžnictví a pojišťovnictví,50253.5000
+2012,"Profesní, vědecké a technické činnosti",31979.0000
+2012,Stavebnictví,20213.4444
+2012,Těžba a dobývání,32513.6250
+2012,"Ubytování, stravování a pohostinství",11552.2222
+2012,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,20394.4444
+2012,Veřejná správa a obrana; povinné sociální zabezpečení,26495.5000
+2012,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",42382.2500
+2012,Vzdělávání,20613.4444
+2012,Zásobování vodou; činnosti související s odpady a sanacemi,18801.8000
+2012,Zdravotní a sociální péče,19532.9000
+2012,"Zemědělství, lesnictví, rybářství",17506.8889
+2012,Zpracovatelský průmysl,24346.3750
+2013,Administrativní a podpůrné činnosti,16427.6250
+2013,Činnosti v oblasti nemovitostí,21622.7500
+2013,Doprava a skladování,23270.6250
+2013,Informační a komunikační činnosti,36577.5000
+2013,"Kulturní, zábavní a rekreační činnosti",17695.8889
+2013,Ostatní činnosti,13743.3636
+2013,Peněžnictví a pojišťovnictví,40696.7778
+2013,"Profesní, vědecké a technické činnosti",27617.2222
+2013,Stavebnictví,19781.0000
+2013,Těžba a dobývání,28080.2222
+2013,"Ubytování, stravování a pohostinství",11945.5556
+2013,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,22666.7500
+2013,Veřejná správa a obrana; povinné sociální zabezpečení,26519.0000
+2013,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",40530.7500
+2013,Vzdělávání,20963.6667
+2013,Zásobování vodou; činnosti související s odpady a sanacemi,15617.0000
+2013,Zdravotní a sociální péče,19570.7000
+2013,"Zemědělství, lesnictví, rybářství",20363.1250
+2013,Zpracovatelský průmysl,22053.0000
+2014,Administrativní a podpůrné činnosti,14860.0000
+2014,Činnosti v oblasti nemovitostí,22287.3750
+2014,Doprava a skladování,23737.0000
+2014,Informační a komunikační činnosti,42120.0000
+2014,"Kulturní, zábavní a rekreační činnosti",20710.3750
+2014,Ostatní činnosti,17038.7778
+2014,Peněžnictví a pojišťovnictví,38118.0000
+2014,"Profesní, vědecké a technické činnosti",31822.8750
+2014,Stavebnictví,20269.2222
+2014,Těžba a dobývání,27857.5556
+2014,"Ubytování, stravování a pohostinství",10981.5000
+2014,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,18816.5000
+2014,Veřejná správa a obrana; povinné sociální zabezpečení,27338.2500
+2014,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",41022.5000
+2014,Vzdělávání,21340.2222
+2014,Zásobování vodou; činnosti související s odpady a sanacemi,21378.6667
+2014,Zdravotní a sociální péče,25011.1250
+2014,"Zemědělství, lesnictví, rybářství",21125.2500
+2014,Zpracovatelský průmysl,22791.3333
+2015,Administrativní a podpůrné činnosti,13691.2000
+2015,Činnosti v oblasti nemovitostí,23064.8750
+2015,Doprava a skladování,24507.2500
+2015,Informační a komunikační činnosti,48418.3750
+2015,"Kulturní, zábavní a rekreační činnosti",21448.6250
+2015,Ostatní činnosti,17516.7778
+2015,Peněžnictví a pojišťovnictví,42588.2222
+2015,"Profesní, vědecké a technické činnosti",24012.7273
+2015,Stavebnictví,19055.8000
+2015,Těžba a dobývání,25345.0000
+2015,"Ubytování, stravování a pohostinství",12919.5556
+2015,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,21749.0000
+2015,Veřejná správa a obrana; povinné sociální zabezpečení,25485.1111
+2015,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",40483.5000
+2015,Vzdělávání,21729.7778
+2015,Zásobování vodou; činnosti související s odpady a sanacemi,21840.2222
+2015,Zdravotní a sociální péče,26157.5000
+2015,"Zemědělství, lesnictví, rybářství",21437.8750
+2015,Zpracovatelský průmysl,23493.2222
+2016,Administrativní a podpůrné činnosti,18057.7500
+2016,Činnosti v oblasti nemovitostí,24078.1250
+2016,Doprava a skladování,25660.2500
+2016,Informační a komunikační činnosti,44148.5556
+2016,"Kulturní, zábavní a rekreační činnosti",20327.4444
+2016,Ostatní činnosti,20304.0000
+2016,Peněžnictví a pojišťovnictví,43913.3333
+2016,"Profesní, vědecké a technické činnosti",30237.8889
+2016,Stavebnictví,22012.3333
+2016,Těžba a dobývání,31487.1250
+2016,"Ubytování, stravování a pohostinství",15369.6250
+2016,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,22791.2222
+2016,Veřejná správa a obrana; povinné sociální zabezpečení,26915.1111
+2016,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",41193.7500
+2016,Vzdělávání,25313.2500
+2016,Zásobování vodou; činnosti související s odpady a sanacemi,25195.5000
+2016,Zdravotní a sociální péče,24413.5556
+2016,"Zemědělství, lesnictví, rybářství",22430.1250
+2016,Zpracovatelský průmysl,24528.6667
+2017,Administrativní a podpůrné činnosti,14030.3636
+2017,Činnosti v oblasti nemovitostí,22770.7778
+2017,Doprava a skladování,24286.4444
+2017,Informační a komunikační činnosti,46436.2222
+2017,"Kulturní, zábavní a rekreační činnosti",19897.7000
+2017,Ostatní činnosti,18859.1111
+2017,Peněžnictví a pojišťovnictví,45600.4444
+2017,"Profesní, vědecké a technické činnosti",28778.1000
+2017,Stavebnictví,22988.5556
+2017,Těžba a dobývání,33501.3750
+2017,"Ubytování, stravování a pohostinství",17180.8750
+2017,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,20131.3636
+2017,Veřejná správa a obrana; povinné sociální zabezpečení,29100.8889
+2017,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",38585.2222
+2017,Vzdělávání,23899.2222
+2017,Zásobování vodou; činnosti související s odpady a sanacemi,21412.8000
+2017,Zdravotní a sociální péče,29920.0000
+2017,"Zemědělství, lesnictví, rybářství",21048.5556
+2017,Zpracovatelský průmysl,29448.7500
+2018,Administrativní a podpůrné činnosti,20559.5000
+2018,Činnosti v oblasti nemovitostí,24524.0000
+2018,Doprava a skladování,29297.6250
+2018,Informační a komunikační činnosti,56101.2500
+2018,"Kulturní, zábavní a rekreační činnosti",27580.2500
+2018,Ostatní činnosti,22473.0000
+2018,Peněžnictví a pojišťovnictví,54111.3750
+2018,"Profesní, vědecké a technické činnosti",30496.8000
+2018,Stavebnictví,24907.2222
+2018,Těžba a dobývání,31994.5556
+2018,"Ubytování, stravování a pohostinství",12555.5833
+2018,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,26192.8889
+2018,Veřejná správa a obrana; povinné sociální zabezpečení,36013.8750
+2018,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",36949.6000
+2018,Vzdělávání,29745.0000
+2018,Zásobování vodou; činnosti související s odpady a sanacemi,25337.6667
+2018,Zdravotní a sociální péče,32746.3750
+2018,"Zemědělství, lesnictví, rybářství",22491.3333
+2018,Zpracovatelský průmysl,31767.8750
+2019,Administrativní a podpůrné činnosti,22407.3750
+2019,Činnosti v oblasti nemovitostí,30606.6250
+2019,Doprava a skladování,25169.1000
+2019,Informační a komunikační činnosti,52006.0000
+2019,"Kulturní, zábavní a rekreační činnosti",26887.5556
+2019,Ostatní činnosti,23918.1250
+2019,Peněžnictví a pojišťovnictví,58320.1250
+2019,"Profesní, vědecké a technické činnosti",40772.0000
+2019,Stavebnictví,29924.5000
+2019,Těžba a dobývání,27027.2727
+2019,"Ubytování, stravování a pohostinství",18117.4444
+2019,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,28159.0000
+2019,Veřejná správa a obrana; povinné sociální zabezpečení,34136.7778
+2019,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",43745.0000
+2019,Vzdělávání,33371.7500
+2019,Zásobování vodou; činnosti související s odpady a sanacemi,27088.2222
+2019,Zdravotní a sociální péče,31846.1111
+2019,"Zemědělství, lesnictví, rybářství",24559.6667
+2019,Zpracovatelský průmysl,30157.0000
+2020,Administrativní a podpůrné činnosti,23559.2500
+2020,Činnosti v oblasti nemovitostí,28465.8750
+2020,Doprava a skladování,31643.5000
+2020,Informační a komunikační činnosti,54297.5556
+2020,"Kulturní, zábavní a rekreační činnosti",27215.5556
+2020,Ostatní činnosti,17734.1818
+2020,Peněžnictví a pojišťovnictví,58475.1250
+2020,"Profesní, vědecké a technické činnosti",36484.8889
+2020,Stavebnictví,27190.4444
+2020,Těžba a dobývání,37281.2500
+2020,"Ubytování, stravování a pohostinství",15358.6000
+2020,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,31698.5000
+2020,Veřejná správa a obrana; povinné sociální zabezpečení,40286.2500
+2020,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",52060.2500
+2020,Vzdělávání,31877.2222
+2020,Zásobování vodou; činnosti související s odpady a sanacemi,31191.1250
+2020,Zdravotní a sociální péče,39546.0000
+2020,"Zemědělství, lesnictví, rybářství",28460.0000
+2020,Zpracovatelský průmysl,27262.2000
+2021,Administrativní a podpůrné činnosti,24685.2500
+2021,Činnosti v oblasti nemovitostí,31606.0000
+2021,Doprava a skladování,31937.7500
+2021,Informační a komunikační činnosti,63416.5000
+2021,"Kulturní, zábavní a rekreační činnosti",19807.1667
+2021,Ostatní činnosti,20229.4000
+2021,Peněžnictví a pojišťovnictví,49248.2000
+2021,"Profesní, vědecké a technické činnosti",42131.2500
+2021,Stavebnictví,20327.3333
+2021,Těžba a dobývání,30380.8000
+2021,"Ubytování, stravování a pohostinství",19876.0000
+2021,Velkoobchod a maloobchod; opravy a údržba motorových vozidel,22035.8333
+2021,Veřejná správa a obrana; povinné sociální zabezpečení,39369.5000
+2021,"Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",55598.5000
+2021,Vzdělávání,34866.7500
+2021,Zásobování vodou; činnosti související s odpady a sanacemi,31470.7500
+2021,Zdravotní a sociální péče,45368.7500
+2021,"Zemědělství, lesnictví, rybářství",27378.0000
+2021,Zpracovatelský průmysl,34955.7500
